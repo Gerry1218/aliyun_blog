@@ -1,5 +1,7 @@
 ---
 title: git使用
+date: 2016-11-03 15:55:12
+tags:
 ---
 
 ## Git使用
@@ -48,4 +50,7 @@ git commit -m "提交介绍"
 git push -u origin master
 ```
 
-
+### 删除属于`github.com`的秘钥,用于github迁移
+```bash
+ssh-keygen -f /root/.ssh/known_hosts -R github.com 
+```
