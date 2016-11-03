@@ -2,9 +2,7 @@
 title: git使用
 ---
 
-# Git使用
-
-## 远程版本库操作
+## Git使用
 
 ### 列出远程分支
 ```bash
@@ -29,7 +27,9 @@ git init
 ```
 
 关联本地仓库和远程仓库
-同`关联新的远程仓库`
+```bash
+git remote add origin git@github.com:Gerry1218/aliyun_blog.git 
+```
 
 添加本地文件
 ```bash
