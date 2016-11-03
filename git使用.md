@@ -50,4 +50,7 @@ git commit -m "提交介绍"
 git push -u origin master
 ```
 
-
+### 删除属于`github.com`的秘钥,用于github迁移
+```bash
+ssh-keygen -f /root/.ssh/known_hosts -R github.com 
+```
