@@ -4,6 +4,13 @@ date: 2016-11-03 16:15:12
 tags:
 ---
 
+### Cocoapods安装
+```bash
+gem sources --remove https://rubygems.org/
+gem sources -a https://ruby.taobao.org/ 
+sudo gem install cocoapods
+```
+
 ### Cocoapods升级
 ```bash
 sudo gem update --system
