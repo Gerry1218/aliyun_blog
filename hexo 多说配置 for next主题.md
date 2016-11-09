@@ -9,7 +9,7 @@ catagories: hexo
 ---
 
 
-##next主题配置评论
+## next主题配置评论
 
 - 配置`/blog/themes/next/_config.yml`文件
 ```bash
