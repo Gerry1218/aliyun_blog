@@ -1,8 +1,10 @@
 ---
 title: hexo for Ubuntu
 date: 2016-11-09 15:00:00
-tags: hexo
-categorys: 工具
+tags: 
+ - hexo
+ - ubuntu
+categories: 工具
 ---
 
 ## hexo for Ubuntu
@@ -27,8 +29,10 @@ cnpm install -g hexo-cli
 
 
  - 部署配置
-> deploy: 
-       type: git
-       repo: https://www.github.com/xxx/xx.git
-       branch: master
+ ```bash
+deploy: 
+    type: git
+    repo: https://www.github.com/xxx/xx.git
+    branch: master
+```
 
