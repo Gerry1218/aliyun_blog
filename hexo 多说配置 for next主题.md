@@ -11,8 +11,12 @@ catagories: hexo
 
 ##next主题配置评论
 
+- 配置`/blog/themes/next/_config.yml`文件
+```bash
+duoshuo_shortname: code1928
+```
 
-- 登录多说http://duoshuo.com/，创建站点 
+- 登录多说http://duoshuo.com/, 创建站点 
 
 - 站点名 `code1928`
 
