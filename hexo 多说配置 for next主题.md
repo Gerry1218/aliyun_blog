@@ -5,15 +5,18 @@ tags:
  - next主题
  - hexo
  - 多说
- catagories: 
+catagories: hexo
 ---
 
 
-##多说next主题配置
+##next主题配置评论
 
 
 - 登录多说http://duoshuo.com/，创建站点 
 
+- 站点名 `code1928`
+
+- 通用代码如下：
 ```bash
 <!-- 多说评论框 start -->
 	<div class="ds-thread" data-thread-key="请将此处替换成文章在你的站点中的ID" data-title="请替换成文章的标题" data-url="请替换成文章的网址"></div>
@@ -37,5 +40,11 @@ var duoshuoQuery = {short_name:"code1928"};
 ```bash
 <div class="ds-thread" data-thread-key="<%- page.path %>" data-title="<%- page.title %>" data-url="<%- page.permalink %>"></div>
 ```
+拷贝修改后的内容。
+
+- 替换`comments.swig`文件内容
+打开`~/blog/themes/next/layout/_partials/comments.swig`文件，替换其内容。
+
+- 部署 over 
 
 
