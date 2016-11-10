@@ -12,6 +12,8 @@ catagories: hexo
 - 注册登录Leancloud
 `控制台` -> `创建应用`  ->  `应用数据配置界面` ->  `点击左上方⚙` -> `新建Class` ->  `类名：Counter` -> ` 点击 正上方 "设置⚙"` ->  `应用key` 获取`app_id`和`app_key`替换_config.yml文件中对应字段
 
+[LeanCloud的app id及app key获取](http://ogevnhg8m.bkt.clouddn.com/leancloud-1.png?attname=&e=1478759606&token=qhdROQyPasAYUyC-6UzlWm_6gJ2Pd-p-UyuHme3f:jHkjMUP73A5HOLM7tmJYXZh4v4g)
+
 - 主题配置文件~/blog/themes/next/_config.yml配置
 ```bash
 leancloud_visitors:
