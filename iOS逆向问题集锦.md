@@ -7,10 +7,11 @@ catagories: iOS逆向
 ---
 
 ### 问题
-Q: 安装IOSOpenDev失败
+Q: 安装IOSOpenDev失败  
 A: 打开XCode，看下是否已存在 iOSOpenDev分类，已存在的话 说明安装成功了。
 
-Q：Entitlements.plist 文件格式
+
+Q：Entitlements.plist 文件格式  
 A：格式如下:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
@@ -39,11 +40,21 @@ A：格式如下:
 </plist>
 ```
 
-Q：能否直接对导出的.app 直接签名安装
+
+Q：能否直接对导出的.app 直接签名安装   
 A：经测试，导出的.app文件不解密，直接签名是无法运行的。
 
-Q：是否需要生成推送证书
+
+Q：是否需要生成推送证书  
 A：不需要
+
+Q: 如何查看页面属于哪个类  
+A: reveal工具
+
+Q: 插入的动态库是否可以联调  
+A: 可以，打开xcode, `Debug -> Attach to Progress by PID or Name...[Attach to Progress]`, 输入`WeChat`
+
+
 
 
 
