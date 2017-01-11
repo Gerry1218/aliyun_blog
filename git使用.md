@@ -2,7 +2,8 @@
 title: git使用
 date: 2016-11-03 15:55:12
 tags: git
-categories: 工具
+categories: 
+ - 工具
 ---
 
 ## Git使用

@@ -3,7 +3,8 @@ title: pod使用
 date: 2016-11-03 16:15:12
 tags:
  - pod
-categories: 工具
+categories: 
+ - 工具
 ---
 
 ### Cocoapods安装

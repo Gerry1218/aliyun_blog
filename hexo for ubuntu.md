@@ -4,7 +4,8 @@ date: 2016-11-09 15:00:00
 tags: 
  - hexo
  - ubuntu
-categories: 工具
+categories: 
+ - 工具
 ---
 
 ## hexo for Ubuntu

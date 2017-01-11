@@ -5,7 +5,8 @@ tags:
  - next主题
  - hexo
  - 多说
-catagories: hexo
+catagories: 
+ - hexo
 ---
 
 

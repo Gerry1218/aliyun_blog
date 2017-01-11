@@ -3,7 +3,9 @@ title: SSH key生成及配置
 date: 2016-11-10 11:30:00
 tags: 
  - SSH key
-catagories: SSH key
+catagories: 
+ - SSH 
+ - key
 ---
 
 ## SSH key检测

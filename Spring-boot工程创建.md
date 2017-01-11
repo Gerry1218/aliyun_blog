@@ -4,7 +4,8 @@ date: 2017-01-11 17:18:07
 tags: 
  - spring boot
  - Java
-catagories: Java
+catagories: 
+ - Java
 ---
 
 ### 环境配置
