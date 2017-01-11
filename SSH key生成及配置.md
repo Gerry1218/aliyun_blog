@@ -22,10 +22,14 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ssh-add ~/.ssh/id_rsa
 ```
 
-> - 从ssh-agent中删除秘钥 
-> ```bash ssh-add -d ~/.ssh/id_xxx.pub ```
-> - 查看ssh-agent中秘钥 
-> ```bash ssh-add -l ```
+- 从ssh-agent中删除秘钥 
+```bash 
+ssh-add -d ~/.ssh/id_xxx.pub 
+```
+- 查看ssh-agent中秘钥 
+```bash 
+ssh-add -l 
+```
 
 
 ## 添加SSH key到github账户
@@ -54,7 +58,7 @@ ssh -T git@github.com
 
 # oschina
   Host oschina
-  HostName oschina.com
+  HostName oschina.net
   User name2
   IdentityFile ~/.ssh/oschina_id_rsa
 ```
