@@ -29,3 +29,12 @@ catagories: Java
  
  5. 运行，提示如下
 {% asset_img springboot_5.png %}
+
+ 6. 点开右侧`Maven Projects`边栏
+{% asset_img springboot_6.png %}
+
+7. 报错是由于添加了数据库相关的库而没有配置，所以这里我们先在pom.xml文件中注释掉相关的库，注释掉后如果右侧`Maven Projects` -->`Dependencies`还有数据库相关的包，请点击 图2 刷新，直到显示如 图2所示
+{% asset_img springboot_7.png %}
+
+ 8. 运行工程，OK
+{% asset_img springboot_8.png %}
