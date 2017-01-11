@@ -4,8 +4,7 @@ date: 2016-11-10 11:30:00
 tags: 
  - SSH key
 catagories: 
- - SSH 
- - key
+ - SSH
 ---
 
 ## SSH key检测

@@ -4,7 +4,7 @@ date: 2016-11-03 16:15:12
 tags:
  - pod
 categories: 
- - 工具
+ - pod使用
 ---
 
 ### Cocoapods安装

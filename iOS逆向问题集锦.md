@@ -3,7 +3,8 @@ title:  iOS逆向问题集锦
 date: 2016-11-21 11:20:00
 tags: 
  - iOS逆向
-catagories: iOS逆向
+catagories: 
+ - 逆向工程
 ---
 
 ### 问题

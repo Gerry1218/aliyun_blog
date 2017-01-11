@@ -2,11 +2,9 @@
 title:  Next for hexo统计
 date: 2016-11-10 13:00:00
 tags: 
- - hexo
- - next
- - next 统计
+ - next统计
 catagories: 
- - hexo
+ - hexo配置
 ---
 
 ## Next主题中添加文章统计

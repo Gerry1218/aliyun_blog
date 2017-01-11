@@ -2,11 +2,9 @@
 title: hexo 多说配置 for next主题
 date: 2016-11-09 16:30:00
 tags: 
- - next主题
- - hexo
- - 多说
+ - 多说配置
 catagories: 
- - hexo
+ - hexo配置
 ---
 
 
