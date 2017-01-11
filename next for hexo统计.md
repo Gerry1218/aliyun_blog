@@ -5,7 +5,8 @@ tags:
  - hexo
  - next
  - next 统计
-catagories: hexo
+catagories: 
+ - hexo
 ---
 
 ## Next主题中添加文章统计
