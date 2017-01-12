@@ -11,7 +11,7 @@ catagories:
 
 2. 在`web`包新建`Java Class`,名为`HomeController`
 
-3. 添加`test`方法
+3. 添加`test`方法,运行工程
 {% asset_img springboot2_1.png %}
 
 4. 打开浏览器，地址栏：`http://localhost:8080/test`
