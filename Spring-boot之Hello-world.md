@@ -7,14 +7,14 @@ catagories:
  - Java
 ---
 
-### 在`/src/main/java/com.test/`下新建`web`包
+1. 在`/src/main/java/com.test/`下新建`web`包
 
-###在`web`包新建`Java Class`,名为`HomeController`
+2. 在`web`包新建`Java Class`,名为`HomeController`
 
-###添加`test`方法
+3. 添加`test`方法
 {% asset_img springboot2_1.png %}
 
-###打开浏览器，地址栏：`http://localhost:8080/test`
+4. 打开浏览器，地址栏：`http://localhost:8080/test`
 {% asset_img springboot2_2.png %}
 
 > **说明**：
